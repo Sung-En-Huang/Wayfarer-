@@ -1,6 +1,6 @@
 # Wayfarer
 
-##💡 Inspiration##
+💡 ##Inspiration##
 Hours have been spent by our friend group trip planning, with many indecisive individuals and schedule clashes Wayfarer was created to resolve our trip planning horror.
 
 ##🔍 What it does##
