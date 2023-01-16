@@ -28,7 +28,7 @@ Additionally...
 
 Learning the ins and outs of React Working with and handling pre-made APIs Connecting Front + Back End and understanding how API end points and requests work
 
-## ## **📚 What we learned**
+## **📚 What we learned**
 Throughout DH9, we were all able to improve our skills as programmer and learn the ins and outs of search APIs and web scrapping.
 
 ## **🔭 What's next for**
